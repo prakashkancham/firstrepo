@@ -1,3 +1,7 @@
 First Line
 Second Line
+<<<<<<< HEAD
 3rd line
+=======
+Third Line
+>>>>>>> dev
